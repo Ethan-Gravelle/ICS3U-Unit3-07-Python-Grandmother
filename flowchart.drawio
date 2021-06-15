@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T14:07:00.888Z" agent="5.0 (X11; CrOS aarch64 13816.64.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.100 Safari/537.36" etag="xVGbdq3TjWLuwrJ9omaT" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-15T13:13:18.803Z" agent="5.0 (X11; CrOS aarch64 13904.41.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.81 Safari/537.36" etag="OXTZNtMa1gNmvhnA7UdY" version="14.7.7" type="github">
   <diagram id="rr99vOCNT50kwSyYH-od" name="Page-1">
     <mxGraphModel dx="582" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="Q_3v1buhi6g9QwbVVnev-2" value="Get income and looks&amp;nbsp;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="250" y="290" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Gw3A-5Ktk4_LmjFTwjo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q_3v1buhi6g9QwbVVnev-4">
+        <mxCell id="7Gw3A-5Ktk4_LmjFTwjo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Q_3v1buhi6g9QwbVVnev-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="880" as="targetPoint" />
           </mxGeometry>
@@ -29,7 +29,7 @@
         <mxCell id="Q_3v1buhi6g9QwbVVnev-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Q_3v1buhi6g9QwbVVnev-5" target="Q_3v1buhi6g9QwbVVnev-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Gw3A-5Ktk4_LmjFTwjo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q_3v1buhi6g9QwbVVnev-5" target="7Gw3A-5Ktk4_LmjFTwjo-1">
+        <mxCell id="7Gw3A-5Ktk4_LmjFTwjo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Q_3v1buhi6g9QwbVVnev-5" target="7Gw3A-5Ktk4_LmjFTwjo-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q_3v1buhi6g9QwbVVnev-5" value="if income OR looks = yes" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
@@ -41,7 +41,7 @@
         <mxCell id="Q_3v1buhi6g9QwbVVnev-6" value="print(&quot;You can date the grandchild.&quot;)" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="130" y="620" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Gw3A-5Ktk4_LmjFTwjo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q_3v1buhi6g9QwbVVnev-7" target="Q_3v1buhi6g9QwbVVnev-8">
+        <mxCell id="7Gw3A-5Ktk4_LmjFTwjo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Q_3v1buhi6g9QwbVVnev-7" target="Q_3v1buhi6g9QwbVVnev-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q_3v1buhi6g9QwbVVnev-7" value="print(&quot;You cannot date the grandchild.&quot;)" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
@@ -50,14 +50,26 @@
         <mxCell id="Q_3v1buhi6g9QwbVVnev-8" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="130" y="880" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Gw3A-5Ktk4_LmjFTwjo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Gw3A-5Ktk4_LmjFTwjo-1" target="Q_3v1buhi6g9QwbVVnev-7">
+        <mxCell id="7Gw3A-5Ktk4_LmjFTwjo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7Gw3A-5Ktk4_LmjFTwjo-1" target="Q_3v1buhi6g9QwbVVnev-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Gw3A-5Ktk4_LmjFTwjo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Gw3A-5Ktk4_LmjFTwjo-1" target="Q_3v1buhi6g9QwbVVnev-4">
+        <mxCell id="7Gw3A-5Ktk4_LmjFTwjo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7Gw3A-5Ktk4_LmjFTwjo-1" target="Q_3v1buhi6g9QwbVVnev-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Gw3A-5Ktk4_LmjFTwjo-1" value="if income AND looks = no" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="7Gw3A-5Ktk4_LmjFTwjo-1" value="if income AND looks = no" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="250" y="590" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gsdlLSXKVKVI3DvSK7Ed-1" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gsdlLSXKVKVI3DvSK7Ed-2" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="550" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gsdlLSXKVKVI3DvSK7Ed-3" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="690" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gsdlLSXKVKVI3DvSK7Ed-4" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="620" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
